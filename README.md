@@ -15,21 +15,12 @@ metalsmith(__dirname)
 
 Use from file metadata:
 
-```js
----
-prepend:
-  - bower_components/jquery/dist/jquery.js
-  - javascripts/another-file-to-append.js
----
-
-$(function() {
-  // Magic
-});
-```
-
 ```md
 ---
-append: shared/author-bio.md
+prepend:
+  - shared/letterhead.md
+append:
+  - shared/author-bio.md
 ---
 
 # Speech
