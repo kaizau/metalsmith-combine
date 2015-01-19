@@ -1,0 +1,23 @@
+{
+  "name": "metalsmith-combine",
+  "version": "0.0.1",
+  "description": "Metalsmith plugin to append and prepend files.",
+  "main": "lib/index.js",
+  "keywords": [
+    "metalsmith",
+    "plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kaizau/metalsmith-combine.git"
+  },
+  "author": "Kai Zau <k@kaizau.com> (http://kaizau.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaizau/metalsmith-combine/issues"
+  },
+  "homepage": "https://github.com/kaizau/metalsmith-combine",
+  "devDependencies": {
+    "metalsmith": "^1.0.0"
+  }
+}
