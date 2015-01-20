@@ -1,10 +1,11 @@
 {
   "name": "metalsmith-combine",
-  "version": "0.0.2",
-  "description": "Metalsmith plugin to append and prepend files.",
+  "version": "0.0.3",
+  "description": "Metalsmith plugin to append and prepend files from metadata.",
   "main": "lib/index.js",
   "keywords": [
     "metalsmith",
+    "metadata",
     "plugin"
   ],
   "repository": {
