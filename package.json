@@ -5,7 +5,9 @@
   "main": "lib/index.js",
   "keywords": [
     "metalsmith",
-    "metadata",
+    "metalsmith-combine",
+    "template",
+    "frontmatter",
     "plugin"
   ],
   "repository": {
@@ -20,5 +22,8 @@
   "homepage": "https://github.com/kaizau/metalsmith-combine",
   "devDependencies": {
     "metalsmith": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

@@ -2,7 +2,7 @@
 
 A [Metalsmith](http://www.metalsmith.io/) plugin to prepend or append to files.
 
-Note: Like all other template-like plugins, this doesn't work with metalsmith-watch. 
+Note: Like all other template-like plugins, this probably doesn't work with metalsmith-watch.
 
 Install from metalsmith.json or the JS API:
 
